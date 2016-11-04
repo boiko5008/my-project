@@ -1,0 +1,19 @@
+#logo {
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2em;
+}
+
+#logo span {
+	color: red;
+}
+
+#navButtons ul li {
+	font-size: 1.4em;
+	font-weight: bold;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#AccMenu li a {
+	font-family: Arial, serif;
+}
